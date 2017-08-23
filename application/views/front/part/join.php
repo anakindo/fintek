@@ -127,7 +127,7 @@
                           Financial Technology P2P | Landing Page
                         </h2>
 
-                        <a href="#" class="btn btn-primary btn-shadow-2x"><i class="ion-ios-cloud-upload"></i> Get Started</a>
+                        <a href="#" class="btn btn-primary btn-shadow-2x"><i class="ion-ios-cloud-upload"></i> JOIN WIHT US!</a>
                      </div>
                   </div>
                </div>

@@ -120,13 +120,13 @@
                            </form>
                         </div>
                      </li>
-                     <li class="flag-item"><a href="#"><div class="flag flag-england"></div></a> </li>
+                     <!-- <li class="flag-item"><a href="#"><div class="flag flag-england"></div></a> </li>
                      <li class="flag-item"><a href="#"><div class="flag flag-us"></div></a> </li>
                      <li class="nav-divider" aria-hidden="true"> <a href="javascript:void(0)">|</a> </li>
                      <li class="social-item"><a href="#" class="tooltips" data-placement="top" data-rel="tooltip" data-original-title="Twitter"><i class="fa fa-twitter"></i></a></li>
                      <li class="social-item"><a href="#" class="tooltips" data-placement="top" data-rel="tooltip" data-original-title="Facebook"><i class="fa fa-facebook"></i></a></li>
                      <li class="social-item"><a href="#" class="tooltips" data-placement="top" data-rel="tooltip" data-original-title="Google+"><i class="fa fa-google-plus"></i></a></li>
-                  </ul>
+                  </ul> -->
                   <!--mega menu end-->
                </nav>
             </div>

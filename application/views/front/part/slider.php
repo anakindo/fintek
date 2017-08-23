@@ -1,4 +1,4 @@
-<div class="page">
+  <div class="page">
 
          <div class="slider-container rev_slider_wrapper" style="height: 600px;">
             <div id="revolutionSlider" class="slider rev_slider" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 600}">
@@ -250,7 +250,7 @@
                      <!-- MAIN IMAGE -->
                      <div class="slotholder" style="width: 100%; height: 100%; visibility: inherit; o-: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                         <div class="tp-bgimg defaultimg"
-                             style="width: 100%; height: 100%; o-: 1; visibility: inherit; z-index: 20; background-image: url(assets/img/custom/img12.jpg); background-color: rgba(0, 0, 0, 0); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;" src="<?php echo base_url()?>assets/img/custom/img12.jpg"></div>
+                             style="width: 100%; height: 100%; o-: 1; visibility: inherit; z-index: 20; background-image: url(assets/img/custom/img12.jpg); background-color: rgba(0, 0, 0, 0); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;" src="<?php echo base_url()?>assets/img/custom/SRH.jpg"></div>
                      </div>
                      <!-- LAYERS -->
                      <!-- LAYER NR. 1 -->
@@ -371,7 +371,7 @@
                                    data-splitout="none"
                                    data-responsive_offset="on"
                                    style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal; font-size: 22px; line-height: 32px; font-weight: 400; color:black; font-family: 'Open Sans'; visibility: inherit; transition: none; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; min-height: 106px; max-height: 106px; o-: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
-                                 Ajukan Pinjaman ?
+                                 Ingin Ajukan Pinjaman ?
                               </div>
                            </div>
                         </div>
@@ -398,8 +398,8 @@
                                    data-splitout="none"
                                    data-responsive_offset="on"
                                    data-responsive="off"
-                                   style="z-index: 10; min-width: 165px; max-width: 165px; white-space: normal; font-size: 14px; line-height: 14px; font-weight: 600; color: rgb(13, 78, 70); font-family: 'Open Sans'; text-align: center; padding: 10px 30px; border: 2px solid rgb(13, 78, 70); border-radius: 3px; outline: none; box-shadow: none; box-sizing: border-box; visibility: inherit; transition: none; font-style: normal; text-decoration: none; margin: 0px; letter-spacing: 0px; min-height: 0px; max-height: none; o-: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px; cursor: pointer; background-color: rgba(0, 0, 0, 0);">
-                                  AJUKAN
+                                   style="z-index: 10; min-width: 165px; max-width: 165px; white-space: normal; font-size: 14px; line-height: 14px; font-weight: 600; color:white; font-family: 'Open Sans'; text-align: center; padding: 10px 30px; border: 2px solid rgb(13, 78, 70); border-radius: 3px; outline: none; box-shadow: none; box-sizing: border-box; visibility: inherit; transition: none; font-style: normal; text-decoration: none; margin: 0px; letter-spacing: 0px; min-height: 0px; max-height: none; o-: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px; cursor: pointer; background-color:#8fc135;">
+                                  AJUKAN YUK!
                               </div>
                            </div>
                         </div>

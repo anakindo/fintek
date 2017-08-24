@@ -21,8 +21,8 @@
 (QS. An-Nisaa 4 : 29)
 
                         </p>
-                        <a href="#" class="btn btn-primary mt-xs mb-xlg fw-6"><i class="ion-ios-cloud-upload-outline"></i> KEBUTUHAN PRODUKTIF</a>
-                        <a href="#" class="btn btn-primary mt-xs mb-xlg fw-6"><i class="ion-ios-cloud-upload-outline"></i> KEBUTUHAN KONSUMTIF</a>
+                        <a href="<?php echo site_url('form/produktif')?>" class="btn btn-primary mt-xs mb-xlg fw-6">KEBUTUHAN PRODUKTIF</a>
+                        <a href="#" class="btn btn-primary mt-xs mb-xlg fw-6">KEBUTUHAN KONSUMTIF</a>
                      </div>
 
                      <div class="col-md-5">

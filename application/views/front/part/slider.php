@@ -20,7 +20,7 @@
                                         background-size: cover;
                                         background-position: 50% 50%;
                                         background-repeat: no-repeat;"
-                             src="assets/img/custom/sd.jpg"></div>
+                             src="<?php echo base_url() ?>assets/img/custom/sd1.jpg"></div>
                      </div>
                      <!-- LAYERS -->
                      <!-- LAYER NR. 1 -->

@@ -8,4 +8,3 @@ require_once('service.php');
 require_once('patner.php');
 require_once('join.php');
 require_once('footer.php');
-require_once('eror404.php');

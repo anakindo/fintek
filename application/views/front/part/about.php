@@ -24,11 +24,8 @@
                         <a href="<?php echo site_url('form/produktif')?>" class="btn btn-primary mt-xs mb-xlg fw-6">KEBUTUHAN PRODUKTIF</a>
                         <a href="#" class="btn btn-primary mt-xs mb-xlg fw-6">KEBUTUHAN KONSUMTIF</a>
                      </div>
-
                      <div class="col-md-5">
-                           <div class="col-sm-8">
-                           <iframe width="600" height="338" src="http://www.youtube.com/embed/JUdsb3Jw2iU" frameborder="0" allowfullscreen></iframe>
-                            
+                        <iframe width="600" height="338" src="http://www.youtube.com/embed/JUdsb3Jw2iU" frameborder="0" allowfullscreen></iframe>
                               </span>
                            </a>
                         </div>
@@ -36,6 +33,8 @@
                   </div>
                </div>
             </section>
+
+                     
 <!--             <section class="section-primary alternate-color t-bordered b-bordered">
                <div class="container">
                   <div class="row">

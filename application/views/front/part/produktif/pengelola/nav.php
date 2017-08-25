@@ -11,9 +11,9 @@
                   <!--logo end-->
                   <!--mega menu start-->
                   <ul class="menuzord-menu menuzord-right c-nav_s-standard">
-                     <li class="active">
+                     <li>
                         <a href="<?php echo site_url('form/index')?>">Home</a>
-                        <ul class="dropdown">
+                        <!-- <ul class="dropdown">
                            <li class="current"> <a href="index-2.html">Home Default</a> </li>
                            <li><a href="index-3.html">Home Alternate</a> </li>
                            <li><a href="index-4.html">Home Minimal <label class="menu-label">v1</label></a></li>
@@ -24,11 +24,11 @@
                            <li><a href="index-9.html">Home Minimal <label class="menu-label">v6</label></a></li>
                            <li><a href="index-10.html">Home Minimal <label class="menu-label">v7</label></a></li>
                            <li><a href="index-11.html">Home Minimal <label class="menu-label">v8</label></a></li>
-                        </ul>
+                        </ul> -->
                      </li>
                      <li>
                         <a href="#">Features</a>
-                        <ul class="dropdown">
+                       <!--  <ul class="dropdown">
                            <li>
                               <a href="#">Headers</a>
                               <ul class="dropdown">
@@ -40,40 +40,40 @@
                               </ul>
                            </li>
                            <li><a href="footers.html">Footers</a></li>
-                        </ul>
+                        </ul> -->
                      </li>
                      <li>
                         <a href="#">Pages</a>
-                        <ul class="dropdown">
+                        <!-- <ul class="dropdown">
                            <li><a href="about.html">About</a></li>
                            <li><a href="about2.html">About Advenced</a></li>
                            <li><a href="aboutme.html">About Me</a></li>
                            <li><a href="services.html">Service</a></li>
                            <li><a href="faq.html">FAQ Page</a></li>
-                        </ul>
+                        </ul> -->
                      </li>
                      <li>
                         <a href="#">Portfolio</a>
-                        <ul class="dropdown">
+                        <!-- <ul class="dropdown">
                            <li><a href="portfolio-two-column.html">Portfolio Two Columns</a></li>
                            <li><a href="portfolio-three-column.html">Portfolio Three Columns</a></li>
                            <li><a href="portfolio-four-column.html">Portfolio Four Columns</a></li>
                            <li><a href="portfolio-masonary.html">Portfolio Masonary</a></li>
                            <li><a href="portfolio-single.html">Portfolio Single</a></li>
-                        </ul>
+                        </ul> -->
                      </li>
                      <li>
                         <a href="#">Blog</a>
-                        <ul class="dropdown">
+                        <!-- <ul class="dropdown">
                            <li><a href="blog-grid.html"> Blog Grid View</a></li>
                            <li><a href="blog-list.html">Blog List View</a></li>
                            <li><a href="blog-single.html">Blog Single</a></li>
                            <li><a href="blog-single2.html">Blog Single Advenced</a></li>
-                        </ul>
+                        </ul> -->
                      </li>
                      <li class="">
                         <a href="javascript:void(0)">Shortcodes</a>
-                        <div class="megamenu">
+                        <!-- div class="megamenu">
                            <div class="megamenu-row">
                               <div class="col4">
                                  <ul class="list-unstyled">
@@ -110,16 +110,16 @@
                               </div>
                            </div>
                         </div>
-                     </li>
+ -->                     </li>
                      <li><a href="contact.html">Contact</a></li>
-                     <li class="searchWrap">
+                     <!-- <li class="searchWrap">
                         <a href="javascript:void(0)"><i class="fa fa-search"></i></a>
                         <div class="megamenu megamenu-quarter-width navbar-search">
                            <form>
                               <input type="text" class="form-control" placeholder="Search Here">
                            </form>
                         </div>
-                     </li>
+                     </li> -->
                      <!-- <li class="flag-item"><a href="#"><div class="flag flag-england"></div></a> </li>
                      <li class="flag-item"><a href="#"><div class="flag flag-us"></div></a> </li>
                      <li class="nav-divider" aria-hidden="true"> <a href="javascript:void(0)">|</a> </li>

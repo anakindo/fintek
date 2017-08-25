@@ -18,7 +18,7 @@
                            (QS. An-Nisaa 4 : 29)
                         </p>
                         <a href="<?php echo site_url('form/produktif')?>" class="btn btn-primary mt-xs mb-xlg fw-4">KEBUTUHAN PRODUKTIF</a>
-                        <a href="#" class="btn btn-primary mt-xs mb-xlg fw-4">KEBUTUHAN KONSUMTIF</a>
+                        <a href="<?php echo site_url('form/konsumtif')?>" class="btn btn-primary mt-xs mb-xlg fw-4">KEBUTUHAN KONSUMTIF</a>
                      </div>
                      <div class="col-md-5">
 
@@ -27,10 +27,11 @@
 
 
                         </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
+                        </div>
+                        </div>
+                        </section>
+                        </div>
+                        
 
                      
 <!--             <section class="section-primary alternate-color t-bordered b-bordered">

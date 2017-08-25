@@ -404,8 +404,11 @@
                            </div>
                         </div>
                      </div>
+                  </div>
                   </li>
-                  <!--/ SLIDE #7 -->
-               </ul>
-            </div><!-- END REVOLUTION SLIDER -->
-         </div>
+                  </li>
+                  </ul>
+                  </div>
+                  </div>
+                  </div>
+                

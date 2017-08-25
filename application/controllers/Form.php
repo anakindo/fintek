@@ -12,11 +12,6 @@ class Form extends CI_Controller {
 		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
 		$this->load->view('front/part/produktif/wrapper', $data, FALSE);
 	}
-		public function konsumtif()
-	{
-		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
-		$this->load->view('front/part/konsumtif/wrapper', $data, FALSE);
-	}
 		public function inves()
 	{
 		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
@@ -27,10 +22,15 @@ class Form extends CI_Controller {
 		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
 		$this->load->view('front/part/produktif/pengelola/wrapper', $data, FALSE);
 	}
-		public function eror404()
+		public function konsumtif()
 	{
 		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
-		$this->load->view('front/part/produktif/eror404/eror404/wrapper', $data, FALSE);
+		$this->load->view('front/part/konsumtif/wrapper', $data, FALSE);
+	}
+		public function data()
+	{
+		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
+		$this->load->view('front/part/konsumtif/form/wrapper', $data, FALSE);
 	}
 }
 

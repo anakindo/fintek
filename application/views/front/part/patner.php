@@ -11,7 +11,7 @@
 
                   <div class="row text-center center-block">
                      <div class="col-md-4">
-                        <img class="img-responsive mb-xlg exp-animation" data-animation="fade-from-bottom" data-delay="50" src="<?php echo base_url() ?>assets/img/custom/bri.png">
+                        <img class="img-responsive mb-xlg exp-animation" data-animation="fade-from-bottom" data-delay="50" src="<?php echo base_url() ?>assets/img/custom/bri1.png">
                         <h4 class="mb-md">BANK BRI Syariah</h4>
                         <p class="o-7 fs-15">
                            
@@ -19,7 +19,7 @@
                      </div>
 
                      <div class="col-md-4">
-                        <img class="img-responsive mb-xlg exp-animation" data-animation="fade-from-bottom" data-delay="250" src="<?php echo base_url() ?>assets/img/custom/mandiri.png">
+                        <img class="img-responsive mb-xlg exp-animation" data-animation="fade-from-bottom" data-delay="250" src="<?php echo base_url() ?>assets/img/custom/m11.png">
                         <h4 class="mb-md">BANK Mandiri Syariah</h4>
                         <p class="o-7 fs-15">
                            

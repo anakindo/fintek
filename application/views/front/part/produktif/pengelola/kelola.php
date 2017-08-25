@@ -56,7 +56,7 @@
                                  <label>Pengalaman<span class="required">*</span></label>
                                  <input type="text" value="" maxlength="100" class="form-control mb-5" name="website" id="website">
                               </div>
-                                <small>*Database pengelola usaha akan terecord oleh sistem dan akan dievaluasi dengan sistem rating tiap selesai pelaksanaan proyek.</small>
+                                <small>*Database pengelola usaha akan terecord oleh sistem dan akan dievaluasi dengan sistem rating tiap selesai pelaksanaan proyek.</small><br>
                                 <small>*Untuk sejumlah sektor usaha, pihak RIZQita telah memiliki rekanan tetap dalam pengelolaan usaha, yang direkomendasikan serta terdapat unsur penjaminan atas kemungkinan default.</small><br><br>
                                 <div align="justify">
                                     <button type="submit" class="btn btn-primary btn-shadow btn-sm pull-right"> <i class="fa fa-lock"></i>Daftar</button>

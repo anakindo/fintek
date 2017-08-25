@@ -22,6 +22,11 @@
                                       Untuk pendataan pengelola usaha kami menyediakan form untuk diisi, sebagai berikut:
                                     </p>
                                     </blockquote>
+                                    </div>
+                                    </div>
+                                    </article>
+                                    </div>
+                                    </div>
 
                         <!-- <div class="col-md-9"> -->
                         <div class="signup-form-wrap">
@@ -56,11 +61,16 @@
                                  <label>Pengalaman<span class="required">*</span></label>
                                  <input type="text" value="" maxlength="100" class="form-control mb-5" name="website" id="website">
                               </div>
-                                <small>*Database pengelola usaha akan terecord oleh sistem dan akan dievaluasi dengan sistem rating tiap selesai pelaksanaan proyek.</small><br>
-                                <small>*Untuk sejumlah sektor usaha, pihak RIZQita telah memiliki rekanan tetap dalam pengelolaan usaha, yang direkomendasikan serta terdapat unsur penjaminan atas kemungkinan default.</small><br><br>
-                                <div align="justify">
+                              <div class="form-group">
+                                 <label>Upload Kondisi Usaha Terkini<span class="required">*</span></label>
+                                 <br><button type="submit" class="btn btn-primary btn-shadow btn-sm pull-left"> <i class="fa fa-photo"></i>Upload Gambar</button>
+                              </div>
+                              <div align="justify">
                                     <button type="submit" class="btn btn-primary btn-shadow btn-sm pull-right"> <i class="fa fa-lock"></i>Daftar</button>
                                  </div>
+                                <small>*Database pengelola usaha akan terecord oleh sistem dan akan dievaluasi dengan sistem rating tiap selesai pelaksanaan proyek.</small><br>
+                                <small>*Untuk sejumlah sektor usaha, pihak RIZQita telah memiliki rekanan tetap dalam pengelolaan usaha, yang direkomendasikan serta terdapat unsur penjaminan atas kemungkinan default.</small>
+                                
                               </div>
                            </form>
                         </div>

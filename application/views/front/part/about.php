@@ -1,33 +1,31 @@
          <div class="page-inner p-none">
-
             <section class="section-primary main-color">
                <div class="container">
                   <div class="row">
-                     <div class="col-md-7">
+                     <div class="col-md-6">
 
                         <h3 class="uppercase fs-18 fw-5 o-4 ls-1">RIZQita P2P Landing Page</h3>
                         <p>menghubungkan kebutuhan anda dengan cara terbaik</p>
                         <h2 class="section-title lh-38">
                            HINDARI BUNGA JAUHKAN RIBA
                         </h2>
-
                         <p class="fs-18 lh-28 mt-xl mb-xl">
                           “Dan ALLAH SWT telah menghalalkan jual beli dan mengharamkan riba” 
-(QS. Al-Baqarah 2 : 275)
+                           (QS. Al-Baqarah 2 : 275)
                         </p>
-
                         <p class="fs-18 lh-28 mt-xl mb-xl">
-                           “Hai orang-orang beriman, janganlah kamu makan harta sesama kamu dengan jalan bathil, kecuali melalui perniagaan yang berlaku dengan suka sama suka di antara kamu”<br\> 
-(QS. An-Nisaa 4 : 29)
-
+                           “Hai orang-orang beriman, janganlah kamu makan harta sesama kamu dengan jalan bathil, kecuali melalui perniagaan yang berlaku dengan suka sama suka di antara kamu”<br> 
+                           (QS. An-Nisaa 4 : 29)
                         </p>
-                        <a href="<?php echo site_url('form/produktif')?>" class="btn btn-primary mt-xs mb-xlg fw-6">KEBUTUHAN PRODUKTIF</a>
-                        <a href="#" class="btn btn-primary mt-xs mb-xlg fw-6">KEBUTUHAN KONSUMTIF</a>
+                        <a href="<?php echo site_url('form/produktif')?>" class="btn btn-primary mt-xs mb-xlg fw-4">KEBUTUHAN PRODUKTIF</a>
+                        <a href="#" class="btn btn-primary mt-xs mb-xlg fw-4">KEBUTUHAN KONSUMTIF</a>
                      </div>
                      <div class="col-md-5">
+
                         <iframe width="600" height="338" src="http://www.youtube.com/embed/JUdsb3Jw2iU" frameborder="0" allowfullscreen></iframe>
                               </span>
-                           </a>
+
+
                         </div>
                      </div>
                   </div>

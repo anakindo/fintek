@@ -25,15 +25,8 @@
                         <iframe width="600" height="338" src="http://www.youtube.com/embed/JUdsb3Jw2iU" frameborder="0" allowfullscreen></iframe>
                               </span>
 
-
-                        </div>
-                        </div>
-                        </div>
-                        </section>
-                        </div>
-                        
-
-                     
+     
+            </section>
 <!--             <section class="section-primary alternate-color t-bordered b-bordered">
                <div class="container">
                   <div class="row">

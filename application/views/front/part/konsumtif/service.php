@@ -23,9 +23,9 @@
                            </div>
                            <h3>Jenis Barang:</h3><br><br>
                               
-                              <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">1.Mobil</a><br><br>
-                              <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">2.Motor</a><br><br>
-                              <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">3.Handphone</a><br><br>
+                              <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">1.Mobil</a><br>
+                              <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">2.Motor</a><br>
+                              <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">3.Handphone</a><br>
                               <a href="<?php echo site_url('form/data')?>" class="btn btn-primary btn-shadow-2x no-border">4.Laptop</a>
                         </div>
 
@@ -50,7 +50,7 @@
                         </div>
                      </div>
 
-                     <div class="col-md-6">
+                     <div class="col-md-6"><br><br>
                         <img class="img-responsive" src="<?php echo base_url() ?>assets/img/custom/krd.png">
                      </div>
                   </div>

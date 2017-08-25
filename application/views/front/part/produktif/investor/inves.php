@@ -22,6 +22,12 @@
                                       Untuk pendataan investasi baru kami menyediakan form untuk diisi, sebagai berikut:
                                     </p>
                                     </blockquote>
+                                    </div>
+                                    </div>
+                                    </article>
+                                    </div>
+                       
+
 
                         <!-- <div class="col-md-9"> -->
                         <div class="signup-form-wrap">

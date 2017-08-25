@@ -31,13 +31,18 @@
                                  <label>Email<span class="required">*</span></label>
                                  <input type="text" value="" placeholder="Email" maxlength="100" class="form-control mb-5" name="website" id="website">
                               </div>
-                           </form>
+                              <div align="justify">
+                                    <button type="submit" class="btn btn-primary btn-shadow btn-sm pull-right"> <i class="fa fa-lock"></i>Daftar</button>
+                                 </div>
+                           </form><br><br>
                           
                         </div>
                         </div>
                      </div>
                   </div>
                </div>
+               </section>
+               
 
 
 <!-- 

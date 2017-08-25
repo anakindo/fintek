@@ -16,7 +16,7 @@
                   <hr class="small invisible" />
 
                   <div class="row">
-                     <div class="col-md-6 pt-xl"><br><br><br><br>
+                     <div class="col-md-6 pt-xl"><br><br><br>
                         <div class="feature-box left-icon exp-animation" data-animation="fade-from-left" data-delay="50">
                            <div class="icon feature-box-shadow bordered">
                               <i class="fa fa-money"></i>
@@ -71,5 +71,4 @@
                   </div>
                </div>
             </section>
-
            

@@ -26,11 +26,9 @@
                      </div>
 
                      <div class="col-md-5">
-                        <div class="video-wrap mt-50" data-cursor-overlay="2" data-cursor-round="5" data-cursor-shadow="20">
-                           <a class="video-wrap-link magnific-iframe" href="https://vimeo.com/58363288">
-                              <img class="video-wrap-image" src="<?php echo base_url() ?>assets/img/blog/b1.jpg" alt="Photo Title">
-                              <span class="video-wrap-icon">
-                                 <i class="fa fa-play" aria-hidden="true"></i>
+                           <div class="col-sm-8">
+                           <iframe width="600" height="338" src="http://www.youtube.com/embed/JUdsb3Jw2iU" frameborder="0" allowfullscreen></iframe>
+                            
                               </span>
                            </a>
                         </div>

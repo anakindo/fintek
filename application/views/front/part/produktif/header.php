@@ -5,7 +5,7 @@
             <div class="container">
                <nav class="menuzord js-primary-navigation" data-plugin-menuzord data-plugin-options="{'align': 'right', 'indicator': 'style-1'}" aria-label="Primary Navigation">
                   <!--logo start-->
-                  <a href="index-2.html" class="logo-brand">
+                  <a href="<?php echo site_url('form/wrapper')?>" class="logo-brand">
                      <img class="retina" src="<?php echo base_url() ?>assets/img/lg1.png" data-logo="<?php echo base_url() ?>assets/img/lg1.png" data-sticky-logo="<?php echo base_url() ?>assets/img/lg1.png" alt="Express" />
                   </a>
                   <!--logo end-->

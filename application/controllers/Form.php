@@ -27,5 +27,10 @@ class Form extends CI_Controller {
 		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
 		$this->load->view('front/part/produktif/pengelola/wrapper', $data, FALSE);
 	}
+		public function eror404()
+	{
+		$data = array(  'title'		=> 'Fintech P2P | FINANCIAL TECHNOLOGY');
+		$this->load->view('front/part/produktif/eror404/eror404/wrapper', $data, FALSE);
+	}
 }
 

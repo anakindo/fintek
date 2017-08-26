@@ -63,10 +63,10 @@
                               </div>
                               <div class="form-group">
                                  <label>Upload Kondisi Usaha Terkini<span class="required">*</span></label>
-                                 <br><button type="submit" class="btn btn-primary btn-shadow btn-sm pull-left"> <i class="fa fa-photo"></i>Upload Gambar</button>
+                                 <input type="file" name="file_gambar" accept="image/*"></button>
                               </div>
                               <div align="justify">
-                                    <button type="submit" class="btn btn-primary btn-shadow btn-sm pull-right"> <i class="fa fa-lock"></i>Daftar</button>
+                                    <button type="file" class="btn btn-primary btn-shadow btn-sm pull-right"> <i class="fa fa-lock"></i>Daftar</button>
                                  </div>
                                 <small>*Database pengelola usaha akan terecord oleh sistem dan akan dievaluasi dengan sistem rating tiap selesai pelaksanaan proyek.</small><br>
                                 <small>*Untuk sejumlah sektor usaha, pihak RIZQita telah memiliki rekanan tetap dalam pengelolaan usaha, yang direkomendasikan serta terdapat unsur penjaminan atas kemungkinan default.</small>
